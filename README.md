@@ -7,4 +7,4 @@ Para roda-lo é só compilar normalmente:
 "gcc xadrez.c -o xadrez.exe"
 ".\xadrez.exe"
 
-A funcionalidade de roque não foi adcionada.
+A funcionalidade do movimento roque não foi adcionada.
