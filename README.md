@@ -8,3 +8,7 @@ Para usa-lo baixe a pasta xadrez_C e, no terminal compile-o normalmente:
 ".\xadrez.exe"
 
 A funcionalidade do movimento roque não foi adcionada.
+
+Para jogar, basta informar a coordenada da peça e a coordenada em que ela estará com o movimento.
+exemplo:
+"1 0" "2 0"
