@@ -1,14 +1,14 @@
-# Xadrez-em-C
-Jogo de Xadrez feito na linguagem C.
+# Chess-in-C
+Chess game written in C language.
 
-O código ainda não está comentado, mas em breve estará.
+The code is not yet commented, but it will be soon.
 
-Para usa-lo baixe a pasta xadrez_C e, no terminal compile-o normalmente:
+To use it, download the xadrez_C folder and compile it normally in the terminal:
 "gcc xadrez.c -o xadrez.exe"
 ".\xadrez.exe"
 
-A funcionalidade do movimento roque não foi adcionada.
+The castling movement functionality has not been added.
 
-Para jogar, basta informar a coordenada da peça e a coordenada em que ela estará com o movimento.
-exemplo:
+To play, simply enter the coordinate of the piece and the coordinate at which it will be moving.
+example:
 "1 0" "2 0"
